@@ -4,9 +4,9 @@
 
 ![Screenshot](./screenshot.png)
 
-## Install
+## Install for Ubuntu 21.04
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+Replace the custom.css file in ~/.config/Caprine
 
 ## Team
 
