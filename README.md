@@ -8,6 +8,10 @@
 
 Replace the custom.css file in ~/.config/Caprine
 
+## Template
+
+Thanks a lot to [HugLifeTiZ](https://gist.github.com/HugLifeTiZ) on which this *.css is based on.
+
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
