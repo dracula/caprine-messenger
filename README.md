@@ -2,7 +2,7 @@
 
 > A dark theme for Caprine Messenger
 
-![Screenshot](./screenshot_1.png)
+![Screenshot](./screenshot_2.png)
 
 ## Install for Ubuntu 21.04
 
