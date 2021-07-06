@@ -1,6 +1,6 @@
 # Dracula for Caprine
 
-> A dark theme for Caprine
+> A dark theme for Caprine Messenger
 
 ![Screenshot](./screenshot_1.png)
 
