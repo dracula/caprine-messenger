@@ -2,7 +2,7 @@
 
 > A dark theme for Caprine
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot_1.png)
 
 ## Install for Ubuntu 21.04
 
