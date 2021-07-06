@@ -10,7 +10,7 @@ Replace the custom.css file in ~/.config/Caprine
 
 ## Template
 
-Thanks a lot to [HugLifeTiZ](https://gist.github.com/HugLifeTiZ) on which this *.css is based on.
+Thanks a lot to [HugLifeTiZ](https://gist.github.com/HugLifeTiZ), on whose work this css is based.
 
 ## Team
 
