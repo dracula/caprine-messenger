@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for Caprine
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for Caprine
 
 ![Screenshot](./screenshot.png)
 
