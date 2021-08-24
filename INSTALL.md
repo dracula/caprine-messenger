@@ -1,17 +1,11 @@
 ### [X](http://link-to-x.com)
 
-#### Install using Git
+#### Install manually for Ubuntu 21.04
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    $ git clone https://github.com/dracula/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download the [custom.css](https://github.com/fabian-pandas/Dracula-for-Caprine/blob/master/custom.css).
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Goto  ~/.config/Caprine
+2. first backup your own custom.css
+3. insert the downloaded custom.css in the directory
