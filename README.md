@@ -1,24 +1,24 @@
-# Dracula for Caprine
+# Dracula for [Caprine Messenger](https://sindresorhus.com/caprine/)
 
-> A dark theme for Caprine Messenger
+> A dark theme for [Caprine Messenger](https://sindresorhus.com/caprine/).
 
-![Screenshot](./screenshot_2.png)
+![Screenshot](./screenshot.png)
 
-## Install for Ubuntu 21.04
+## Install
 
-Replace the custom.css file in ~/.config/Caprine
-
-## Template
-
-Thanks a lot to [HugLifeTiZ](https://gist.github.com/HugLifeTiZ), on whose work this css is based.
+All instructions can be found at [draculatheme.com/caprine-messenger](https://draculatheme.com/caprine-messenger).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/fabian-pandas/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Fabian Pandas](https://github.com/fabian-pandas.png?size=100)](https://github.com/fabian-pandas) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Fabian Pandas](https://github.com/fabian-pandas) |
+
+## Credits
+
+Thanks a lot to [@HugLifeTiZ](https://gist.github.com/HugLifeTiZ), on whose work this css is based.
 
 ## License
 
